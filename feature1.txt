@@ -1,2 +1,3 @@
 Implementing feature 1!
 Some changes.
+Some another changes.
