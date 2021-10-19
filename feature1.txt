@@ -1,2 +1,2 @@
-Implementing feature 1!
-Some changes.
+Final implementation of feature 1.
+
